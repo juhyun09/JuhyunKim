@@ -1,2 +1,2 @@
 # JuhyunKim
-This is a portfolio page of Juhyun Kim.
+This is the portfolio page of Juhyun Kim.
